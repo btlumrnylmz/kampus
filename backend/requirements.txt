@@ -1,0 +1,23 @@
+# RAG Backend Requirements
+# Phase 1: Core backend
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+
+# Embeddings & Retrieval (optional - TF-IDF fallback if unavailable)
+# These may fail to install - that's OK, TF-IDF fallback will be used
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+numpy>=1.24.0
+
+# TF-IDF fallback (always required)
+scikit-learn>=1.3.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Phase 3: Model inference
+transformers>=4.36.0
+torch>=2.1.0
+safetensors>=0.4.0
+
