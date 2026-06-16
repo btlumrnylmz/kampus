@@ -1,0 +1,78 @@
+# ========================
+# Python / Backend
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Sanal Ortam (Virtual Environment)
+venv/
+env/
+.env
+.venv/
+
+# Büyük Model ve Veri Dosyaları (GitHub'da yer kaplar)
+backend/yyu_model_final/
+backend/dataset.jsonl
+backend/dataset_embeddings_cache.pkl
+backend/formatted_train.json
+backend/unsloth_compiled_cache/
+
+# Log Dosyaları
+*.log
+
+# Yemek Cache (Dinamik oluşturulur)
+backend/yemek_cache.json
+
+# ========================
+# Flutter / Frontend
+# ========================
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.pub-cache/
+frontend/.pub/
+frontend/build/
+frontend/.idea/
+frontend/.vscode/
+frontend/.metadata
+frontend/*.iml
+frontend/devtools_options.yaml
+
+# Flutter hata logları
+frontend/build_error*.log
+frontend/build_error*.txt
+
+# Platform derleme çıktıları
+frontend/android/app/debug/
+frontend/android/app/profile/
+frontend/android/app/release/
+frontend/android/.gradle/
+frontend/android/local.properties
+frontend/ios/Pods/
+frontend/ios/.symlinks/
+frontend/macos/Pods/
+frontend/windows/flutter/ephemeral/
+frontend/linux/flutter/ephemeral/
+
+# pubspec.lock (Flutter projeleri için genellikle tutulur ama opsiyoneldir)
+# frontend/pubspec.lock
+
+# ========================
+# IDE / Genel
+# ========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
