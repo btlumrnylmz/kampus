@@ -1,0 +1,118 @@
+{
+  "documents": [
+    {
+      "id": "central_library_info",
+      "title": "Merkez Kütüphane",
+      "building_id": "central_library",
+      "content": "Van Yüzüncü Yıl Üniversitesi Merkez Kütüphanesi, kampüsün en büyük kütüphanesidir. 500.000'den fazla kitap ve 50.000'den fazla e-kaynak içermektedir. Hafta içi 08:00-22:00, hafta sonu 09:00-18:00 saatleri arasında açıktır. Öğrenci kimliği ile giriş yapılabilir. Sessiz çalışma alanları, grup çalışma odaları ve bilgisayar laboratuvarı bulunmaktadır.",
+      "tags": ["kütüphane", "library", "kitap", "çalışma", "kaynak"]
+    },
+    {
+      "id": "central_library_location",
+      "title": "Merkez Kütüphane Konumu",
+      "building_id": "central_library",
+      "content": "Merkez Kütüphane, kampüsün merkezinde, Rektörlük binasının güneybatısında yer almaktadır. Ana girişten yaklaşık 5 dakikalık yürüme mesafesindedir. Koordinatları: 38.5015°N, 43.3830°E.",
+      "tags": ["konum", "yol", "navigasyon"]
+    },
+    {
+      "id": "engineering_faculty_info",
+      "title": "Mühendislik Fakültesi",
+      "building_id": "engineering",
+      "content": "Mühendislik Fakültesi, 8 bölümden oluşmaktadır: Bilgisayar Mühendisliği, Elektrik-Elektronik Mühendisliği, Makine Mühendisliği, İnşaat Mühendisliği, Kimya Mühendisliği, Maden Mühendisliği, Jeoloji Mühendisliği ve Çevre Mühendisliği. Toplam 3000'den fazla öğrenci eğitim görmektedir.",
+      "tags": ["mühendislik", "fakülte", "bölüm", "engineering"]
+    },
+    {
+      "id": "engineering_location",
+      "title": "Mühendislik Fakültesi Konumu",
+      "building_id": "engineering",
+      "content": "Mühendislik Fakültesi, kampüsün kuzey tarafında, Fen Fakültesi'nin yanında bulunmaktadır. Ana girişten yaklaşık 10 dakikalık yürüme mesafesindedir. Koordinatları: 38.5020°N, 43.3840°E.",
+      "tags": ["konum", "yol", "navigasyon"]
+    },
+    {
+      "id": "science_faculty_info",
+      "title": "Fen Fakültesi",
+      "building_id": "science",
+      "content": "Fen Fakültesi, Matematik, Fizik, Kimya, Biyoloji ve İstatistik bölümlerini barındırmaktadır. Modern laboratuvarlar ve araştırma merkezleri ile donatılmıştır. Lisans, yüksek lisans ve doktora programları sunmaktadır.",
+      "tags": ["fen", "fakülte", "science", "matematik", "fizik", "kimya", "biyoloji"]
+    },
+    {
+      "id": "science_location",
+      "title": "Fen Fakültesi Konumu",
+      "building_id": "science",
+      "content": "Fen Fakültesi, Mühendislik Fakültesi'nin hemen yanında, kampüsün kuzey bölgesinde yer almaktadır. Koordinatları: 38.5005°N, 43.3820°E.",
+      "tags": ["konum", "yol", "navigasyon"]
+    },
+    {
+      "id": "rectorate_info",
+      "title": "Rektörlük Binası",
+      "building_id": "rectorate",
+      "content": "Rektörlük binası, üniversitenin idari merkezidir. Rektör, rektör yardımcıları ve genel sekreterlik ofisleri bu binada bulunmaktadır. Öğrenci işleri, akademik kadro işleri ve kurumsal yazışmalar burada yürütülmektedir.",
+      "tags": ["rektörlük", "idari", "yönetim", "rectorate"]
+    },
+    {
+      "id": "rectorate_location",
+      "title": "Rektörlük Konumu",
+      "building_id": "rectorate",
+      "content": "Rektörlük binası, kampüsün en yüksek noktasında, merkezi bir konumda bulunmaktadır. Ana kapıdan girer girmez karşınıza çıkan büyük binadır. Koordinatları: 38.5030°N, 43.3850°E.",
+      "tags": ["konum", "yol", "navigasyon"]
+    },
+    {
+      "id": "cafeteria_info",
+      "title": "Merkez Yemekhane",
+      "building_id": "cafeteria",
+      "content": "Merkez Yemekhane, günlük 5000 öğrenci kapasitesine sahiptir. Kahvaltı (07:30-09:30), öğle yemeği (11:30-14:00) ve akşam yemeği (17:00-19:30) saatlerinde hizmet vermektedir. Öğrenci kimliği ile uygun fiyatlı yemek alınabilir. Vejetaryen seçenekler de mevcuttur.",
+      "tags": ["yemekhane", "cafeteria", "yemek", "kantin", "food"]
+    },
+    {
+      "id": "cafeteria_location",
+      "title": "Yemekhane Konumu",
+      "building_id": "cafeteria",
+      "content": "Merkez Yemekhane, Merkez Kütüphane'nin yakınında, öğrenci yaşam alanının merkezinde bulunmaktadır. Koordinatları: 38.5010°N, 43.3835°E.",
+      "tags": ["konum", "yol", "navigasyon"]
+    },
+    {
+      "id": "sports_center_info",
+      "title": "Spor Merkezi",
+      "building_id": "sports_center",
+      "content": "Spor Merkezi, kapalı yüzme havuzu, fitness salonu, basketbol ve voleybol sahaları, tenis kortları içermektedir. Hafta içi 07:00-22:00, hafta sonu 08:00-20:00 saatlerinde açıktır. Öğrenciler ücretsiz kullanabilir, personel için uygun fiyatlar mevcuttur.",
+      "tags": ["spor", "sports", "fitness", "gym", "havuz", "swimming"]
+    },
+    {
+      "id": "sports_location",
+      "title": "Spor Merkezi Konumu",
+      "building_id": "sports_center",
+      "content": "Spor Merkezi, kampüsün güney tarafında, yurtların yakınında bulunmaktadır. Ana girişten yaklaşık 15 dakikalık yürüme mesafesindedir. Koordinatları: 38.4995°N, 43.3810°E.",
+      "tags": ["konum", "yol", "navigasyon"]
+    },
+    {
+      "id": "registration_info",
+      "title": "Kayıt ve Öğrenci İşleri",
+      "building_id": "rectorate",
+      "content": "Öğrenci İşleri Daire Başkanlığı, kayıt, ders kaydı, transkript, öğrenci belgesi ve mezuniyet işlemlerini yürütmektedir. Hafta içi 08:30-17:00 saatlerinde hizmet vermektedir. Online işlemler için obs.yyu.edu.tr adresini kullanabilirsiniz.",
+      "tags": ["kayıt", "öğrenci işleri", "transkript", "belge", "registration"]
+    },
+    {
+      "id": "parking_info",
+      "title": "Otopark Bilgileri",
+      "building_id": "rectorate",
+      "content": "Kampüste toplam 5 otopark alanı bulunmaktadır. Personel otoparkları kartlı giriş sistemi ile çalışmaktadır. Öğrenci otoparkları ücretsizdir ancak kısıtlı kapasiteye sahiptir. Bisiklet park alanları tüm fakülte binalarının önünde mevcuttur.",
+      "tags": ["otopark", "parking", "araç", "bisiklet"]
+    },
+    {
+      "id": "health_services",
+      "title": "Sağlık Hizmetleri",
+      "building_id": "rectorate",
+      "content": "Kampüs Sağlık Merkezi (Mediko), acil sağlık hizmetleri, genel muayene ve psikolojik danışmanlık sunmaktadır. Hafta içi 08:00-17:00 saatlerinde açıktır. Acil durumlar için 7/24 ambulans hizmeti mevcuttur. Telefon: 0432 XXX XX XX.",
+      "tags": ["sağlık", "health", "mediko", "doktor", "ambulans"]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+

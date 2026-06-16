@@ -1,0 +1,42 @@
+{
+  "central_library": {
+    "lat": 38.5015,
+    "lon": 43.3830,
+    "name": "Merkez Kütüphanesi"
+  },
+  "engineering": {
+    "lat": 38.5025,
+    "lon": 43.3850,
+    "name": "Mühendislik Fakültesi"
+  },
+  "science": {
+    "lat": 38.5005,
+    "lon": 43.3810,
+    "name": "Fen Fakültesi"
+  },
+  "rectorate": {
+    "lat": 38.5035,
+    "lon": 43.3820,
+    "name": "Rektörlük"
+  },
+  "cafeteria": {
+    "lat": 38.5010,
+    "lon": 43.3845,
+    "name": "Merkez Yemekhane"
+  },
+  "sports_center": {
+    "lat": 38.4995,
+    "lon": 43.3860,
+    "name": "Spor Merkezi"
+  }
+}
+
+
+
+
+
+
+
+
+
+
