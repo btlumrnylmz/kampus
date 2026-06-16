@@ -66,6 +66,32 @@ frontend/linux/flutter/ephemeral/
 # frontend/pubspec.lock
 
 # ========================
+# Eski Kök Dizin Dosyaları (Artık frontend/ altında)
+# ========================
+/lib/
+/ios/
+/android/
+/macos/
+/linux/
+/windows/
+/web/
+/test/
+/.dart_tool/
+/.idea/
+/.metadata
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/build/
+/assets/buildings.json
+/pubspec.yaml
+/pubspec.lock
+/analysis_options.yaml
+/*.iml
+/devtools_options.yaml
+/flutter
+/train_examples.txt
+
+# ========================
 # IDE / Genel
 # ========================
 .idea/
