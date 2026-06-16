@@ -132,13 +132,10 @@ Android emülatörde çalıştırıyorsanız `10.0.2.2:5001` kullanmanız gereke
 | **Scraping** | BeautifulSoup4 | Canlı veri çekimi |
 | **Ses** | flutter_tts + speech_to_text | Sesli asistan |
 
-## 📸 Ekran Görüntüleri
-
-> Ekran görüntüleri eklenecek.
 
 ## 👩‍💻 Geliştirici
 
-**Betül** — Van Yüzüncü Yıl Üniversitesi, Bilgisayar Mühendisliği
+**Betül Ümran YILMAZ** — Van Yüzüncü Yıl Üniversitesi, Bilgisayar Mühendisliği
 
 ## 📄 Lisans
 
